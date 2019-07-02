@@ -1,5 +1,5 @@
 # Classifying-Physical-Activity-Kaggle-
-This repository contains R script to the in-class Kaggle activity on recognising physical activity based on phone signal data
+This repository contains R script to the in-class Kaggle activity on recognising physical activity based on phone signal data.
 This activity was part of the Behavioural Data Science course at the University of Amsterdam. 
 
 The description of the competition on Kaggle is as follows:
