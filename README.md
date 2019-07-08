@@ -1,6 +1,6 @@
 # Classifying_Physical_Activity_Kaggle
 This repository contains R script to the in-class Kaggle activity on recognising physical activity based on phone signal data.
-This activity was part of the Behavioural Data Science course at the University of Amsterdam. 
+This activity was part of the Behavioural Data Science course at the University of Amsterdam, carried out by me and Joris Huese.
 
 The description of the competition on Kaggle is as follows:
 This competition involves building a classifier that recognizes different types of physical activity from signals measured by the accelerometer and gyroscope in your smartphone, which both measure aspects of movement and orientation. The data for this competition were collected in a lab using a basic smartphone in experiments with human participants carrying out various daily activities in set order.
